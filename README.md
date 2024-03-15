@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi9661&label=Profile%20views&color=0e75b6&style=flat" alt="ravi9661" /> </p>
 
@@ -12,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ravi-kumar-a540ab222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMcA23UCsRrituKXU5o74qQ%3D%3D" target="blank"><img align="center" src="https://github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi kumar" height="30" width="40" /></a>
+<a href="https://twitter.com/ravisoni107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravisoni107" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ravi-kumar-a540ab222?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bmca23ucsrritukxu5o74qq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravi-kumar-a540ab222?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bmca23ucsrritukxu5o74qq%3d%3d" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ravikumar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravikumar07" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ravisoni9661843742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ravisoni9661843742" height="30" width="40" /></a>
 </p>
