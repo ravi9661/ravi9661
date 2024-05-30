@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://www.cyanous.com/img/python3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi9661&label=Profile%20views&color=0e75b6&style=flat" alt="ravi9661" /> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 📫 How to reach me **ravisoni9661843742@gmail.com**
+- 📫 How to reach me **mr.ravikumar7557@gmail.com**
 
 - ⚡ Fun fact **I am Comedian**
 
